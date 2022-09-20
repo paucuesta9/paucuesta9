@@ -1,7 +1,8 @@
 ### Hi, I'm Pau from Barcelona! 👋
 
 -  I’m currently working on STP Group as Junior Developer
--  I am studying Computer Science, specialized in Software Engineering at FIB - UPC
+-  I am studying a Master Degree in Cybersecurity at UPC
+-  Graduate in Computer Science, specialized in Software Engineering at FIB - UPC
 
 <br>
 
