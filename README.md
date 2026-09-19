@@ -1,7 +1,7 @@
 ### Hi, I'm Pau from Barcelona! 👋
 
--  I’m currently working on STP Group as Software Developer
--  I am studying a Master Degree in Cybersecurity at UPC
+-  I’m currently working as HMI Architect at SEAT/CUPRA
+-  I hold a Master's degree in Cybersecurity from UPC and a Master's degree in Innovation and Digital Transformation from the UOC
 -  Graduate in Computer Science, specialized in Software Engineering at FIB - UPC
 
 <br>
